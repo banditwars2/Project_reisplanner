@@ -1,11 +1,10 @@
-# Handleiding NS programma
-## Reisplanner project met Python.
+# Project Reispanner
+use the code editor PyCharm to use this project
 
-Hoe start je het programma op:
+1. Open dashboard.py with PyCharm
+2. use Reisplanner, Actuele reistijden, storingen bekijken to plan your trip, see the actual time that the trains leave, and track/train failures
 
-1. Download het projects als ZIP-bestand en pak het uit
-2. Open de bestanden in PyCharm en draai dashboard.py
-3. Nadat je het programma opgestart hebt kom je op het dashboard terecht
-4. Vanuit het dashboard kun je de Reisplanner, actuele reistijden of de storingen bekijken
-
-PS: In PyCharm moet je de volgende modules installeren: requests, xmltodict en tkinter (is mogelijk al standaard geïnstalleerd).
+## What have i learned
+basic understanding of Python
+how to get data from an API
+baic understanding with Tkinter
