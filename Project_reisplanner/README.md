@@ -1,5 +1,5 @@
 # Handleiding NS programma
-Reisplanner project met Python.
+## Reisplanner project met Python.
 
 Hoe start je het programma op:
 
